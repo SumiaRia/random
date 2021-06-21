@@ -1,0 +1,3 @@
+this is a new git project.
+i want to change something.
+whatever it happens for good 
